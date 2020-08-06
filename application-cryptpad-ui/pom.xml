@@ -28,6 +28,7 @@
     <groupId>org.xwiki.contrib</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
+  <packaging>xar</packaging>
   <name>Cryptpad - UI</name>
   <modelVersion>4.0.0</modelVersion>
 
