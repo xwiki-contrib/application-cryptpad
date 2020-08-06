@@ -23,6 +23,7 @@
 <xwikidoc version="1.4" reference="CryptPad.UIExtension" locale="">
   <web>CryptPad</web>
   <name>UIExtension</name>
+  <parent>WebHome</parent>
   <language/>
   <defaultLanguage/>
   <translation>0</translation>

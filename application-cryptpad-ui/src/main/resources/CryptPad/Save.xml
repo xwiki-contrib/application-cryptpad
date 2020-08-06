@@ -23,6 +23,7 @@
 <xwikidoc version="1.4" reference="CryptPad.Save" locale="">
   <web>CryptPad</web>
   <name>Save</name>
+  <parent>WebHome</parent>
   <language/>
   <defaultLanguage/>
   <translation>0</translation>
